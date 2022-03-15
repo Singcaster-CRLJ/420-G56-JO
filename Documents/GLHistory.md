@@ -17,7 +17,7 @@ Année | Version
 
 ### Profils
 
-Si le comité a toujours défendu l'importance de la rétrocompatibilité, l'évolution du matériel graphique a rendu la position intenable. En 2008, la librairie a été dérivée en deux profils:
+Si le comité a toujours défendu l'importance de la rétrocompatibilité, l'évolution du matériel graphique a rendu la position intenable. En 2008, avec la version 3.0, la librairie a été dérivée en deux profils:
 
 Profil                     | Description
 ---------------------------|-----------------------------------------------------------
