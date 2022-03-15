@@ -6,38 +6,16 @@
 
 Références relatives au cours:
 
-### Mathématiques
-
-- [Vecteur](Documents/Vector.md)
-- [Matrice](Documents/Matrix.md)
-- [Collision](Documents/RayThroughtPlane.md)
-- [Chronomètre](Documents/Chrono.md)
-
-### Simple Direct Layer
-
-- [Librairie](Documents/SDL2.md)
-- [Fenêtre](Documents/SDLWindow.md)
-- [Moteur de rendu](Documents/SDLGLContext.md)
-- [Événement](Documents/SDLEvent.md)
-- [Police de caractères](Documents/TTFFont.md)
-
 ### Open Graphic Library
 
-- [Matrice](Documents/GLMatrix.md)
-- [Projection](Documents/GLProjection.md)
-- [Vue](Documents/GLCamera.md)
-- [Texture](Documents/GLTexture.md)
-- [Maillage](Documents/GLMesh.md)
+- [Historique](Documents/GLHistory.md)
+- [Processus](Documents/ShadersPipeLine.md)
 
 ### Shaders
 
 - [GLSL](Documents/GLSL.md)
 - [Sommet](Documents/VertexShader.md)
+- [Pavage](Documents/TessellationShader.md)
+- [Géométrie](Documents/GeometryShader.md)
 - [Fragment](Documents/FragmentShader.md)
 - [Calcul](Documents/ComputeShader.md)
-
-## Fichiers
-
-Fichiers relatifs au cours:
-
-- [Projet Visual Code](Documents/Fichiers/ProjetOGL.zip)
