@@ -6,7 +6,7 @@ Dans les années 1990, SGI réalise l'importance de la compatibilité multiplate
 
 ## Évolution
 
-La même année, SGI forme le comité ARB (Architectural Review Board), incluant des membres comme IBM, Intel, Microsoft, etc. Le comité fait maintenant partie du Khronos Group, un large consortium de compagnies s'occupant de plusieurs standards.
+La même année, SGI forme le comité ARB (Architectural Review Board), incluant des membres comme IBM, Intel, Microsoft, etc. Le comité fait maintenant partie du Khronos Group, un large consortium de compagnies s'occupant de plusieurs standards:
 
 Année | Version
 :----:|:------:
@@ -19,7 +19,7 @@ Année | Version
 
 Si le comité a toujours défendu l'importance de la rétrocompatibilité, l'évolution du matériel graphique a rendu la position intenable. En 2008, la librairie a été dérivée en deux profils:
 
-Profile                    | Description
+Profil                     | Description
 ---------------------------|-----------------------------------------------------------
 Compatible (Compatibility) | Maintiens de la rétrocompatibilité jusqu'à la version 1.0.
 Essentiel (Core)           | Utilise que des techniques de matériel graphique moderne.
