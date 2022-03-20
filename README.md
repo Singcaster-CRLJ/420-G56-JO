@@ -9,7 +9,7 @@ Références relatives au cours:
 ### Open Graphic Library
 
 - [Historique](Documents/GLHistory.md)
-- [Processus](Documents/ShadersPipeLine.md)
+- [Shaders](Documents/Shaders.md)
 
 ### Shaders
 
