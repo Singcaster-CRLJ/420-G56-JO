@@ -4,5 +4,5 @@ Premier shader programmable du processus, et le seul obligatoire dans cette cat�
 
 <br>![Shaders Pipeline](Images/glVertexID.png)
 
-*L'exemple ci-dessus est pédagogique et ne réflète pas nécessairement de bonnes pratiques.*
+*L'exemple ci-dessus est pédagogique et ne reflète pas nécessairement de bonnes pratiques.*
 
