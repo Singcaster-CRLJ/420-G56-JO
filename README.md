@@ -15,7 +15,4 @@ Références relatives au cours:
 
 - [GLSL](Documents/GLSL.md)
 - [Sommet](Documents/VertexShader.md)
-- [Pavage](Documents/TessellationShader.md)
-- [Géométrie](Documents/GeometryShader.md)
 - [Fragment](Documents/FragmentShader.md)
-- [Calcul](Documents/ComputeShader.md)
