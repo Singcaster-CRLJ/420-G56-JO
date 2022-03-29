@@ -24,3 +24,7 @@ Fichiers relatifs au cours:
 ### MacOS
 
 - [XCode](Documents/Files/XCode.zip)
+
+### Windows
+
+- [Visual Studio](Documents/Files/VisualStudio.zip)
