@@ -4,7 +4,7 @@ Premier shader programmable du processus, et le seul obligatoire dans cette cat�
 
 ## Entrée
 
-L'entrée implicite principal à ce shader est:
+L'entrée implicite principale à ce shader est:
 
 | Entrée      | Description                  |
 |-------------|------------------------------|
